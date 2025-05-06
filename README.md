@@ -42,6 +42,7 @@ Example:
 ```bash
 python main.py
 ```
+![3dbd1d4b-efc5-4cc2-a141-cacc6f14b1da](https://github.com/user-attachments/assets/315effc5-2a73-4832-b407-57ae03a6a732)
 
 ## Contributing
 
@@ -53,5 +54,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-![3dbd1d4b-efc5-4cc2-a141-cacc6f14b1da](https://github.com/user-attachments/assets/315effc5-2a73-4832-b407-57ae03a6a732)
+
 
